@@ -1,0 +1,12 @@
+
+notebook
+bokeh
+jupyter
+libmetric
+numpy
+sympy
+scipy
+pandas
+vega
+pycast==v0.1.5-alpha
+
